@@ -11430,7 +11430,7 @@ case 4:p="all"
 break
 default:p=""}o=A.ai(["selector",p],t.N,t.z)
 s=3
-return A.B(A.f2(B.b.ff("https://clinics-core.herokuapp.com/api/v1/content-manager-system/doctors/doctor_id/get-doctor-activity-stats","doctor_id","6107f8e69ddc55001085c463"),b.a,o).S(0,new A.aOf(l),t.P),$async$aOe)
+return A.B(A.f2(B.b.ff("https://clinics-core.herokuapp.com/api/v1/content-manager-system/doctors/doctor_id/get-doctor-activity-stats","doctor_id",c.a.a),b.a,o).S(0,new A.aOf(l),t.P),$async$aOe)
 case 3:n=l.a
 if(n!=null)if(A.fD(n.d)){m=l.a.a
 A.R(m)
